@@ -1,0 +1,41 @@
+@tailwind base;
+
+body {
+    background:#181A1B;
+    color: rgb(224, 224, 224);
+}
+
+footer {
+    background:#1B1D1E !important;
+}
+.bgnerv {
+    background-color: rgb(27, 29, 30);
+}
+
+h1 {
+    color: #7159c1;
+}
+
+h3 {
+    color: #7159c1;
+}
+
+a {
+    color: #7159c1;
+}
+
+img {
+    filter: brightness(0.9)
+}
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write you own custom component styles here */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
