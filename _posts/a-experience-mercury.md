@@ -1,6 +1,6 @@
 ---
 title: "An experience known as Mercury Project"
-excerpt: "Imagine that you have no experience in the area and need to know more about how to develop a blog? That's what happened at the first NERV Open Source event, the Mercury Project."
+excerpt: "Imagine that you have no experience in the area and need to know more about how to develop a blog? That's what happened at the first NERV Open Source event, the Mercury Project"
 coverImage: '/assets/blog/mercuryproject.png'
 date: '2020-11-05T16:03:07.322Z'
 author:
