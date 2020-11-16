@@ -22,4 +22,4 @@ We found out that the use of MongoDB was not about saving publications, but just
 
 Participating members received a "N.E. #1 Mercury" on Discord and they have a room just for them and they may be giving their opinion on the theme of the next edition.
 
-If you came from abroad and are interested in participating in our upcoming events, [join our community on Discord](https://discord.gg/CDhyCjP)!
+If you came from abroad and are interested in participating in our upcoming events, [join our community on Discord](https://discord.gg/pZdN8jTmKA)!
