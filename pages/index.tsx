@@ -19,7 +19,7 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Blog - Nerv Open Source</title>
+          <title>Blog - NERV Open Source</title>
         </Head>
         <Container>
           <Intro />
