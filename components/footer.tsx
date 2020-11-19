@@ -19,7 +19,7 @@ const Footer = () => {
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:w-1/4">
             <a
-              href="https://discord.gg/pZdN8jTmKA" target="_blank "
+              href="https://discord.gg/nyTRNSV" target="_blank "
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               Join us to Discord
